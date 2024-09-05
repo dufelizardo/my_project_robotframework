@@ -45,12 +45,12 @@ robot-framework-project/
 ---
 
 ## ROADMAP ROBOTFRAMEWORK
-![robotframework01.gif](documents%2Frobotframework01.gif)
+![robotframework01.gif](src%2Fdocuments%2Frobotframework01.gif)
 
 ---
 
 ## Architecture Videos and Resources
-![robotframework00.gif](documents%2Frobotframework00.gif)
+![robotframework00.gif](src%2Fdocuments%2Frobotframework00.gif)
 
 ---
 
