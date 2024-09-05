@@ -7,20 +7,19 @@ Here is a typical project structure for a Robot Framework project:
 ```
 robot-framework-project/
 │
+├── src/
+│   ├── pages/
+│   │   ├── home_page.robot
+│   │   ├── login_page.robot
+│   ├── resources/
+│   │   ├── locators.robot
+│   │   ├── custom_library.py
+│   ├── keywords/
+│   │   ├── page_keywords.robot
+│
 ├── tests/
 │   ├── example_test.robot
 │   ├── another_test.robot
-│
-├── pages/
-│   ├── home_page.robot
-│   ├── login_page.robot
-│
-├── resources/
-│   ├── locators.robot
-│   ├── custom_library.py
-│
-├── keywords/
-│   ├── page_keywords.robot
 │
 ├── reports/
 │   ├── log.html
@@ -30,8 +29,8 @@ robot-framework-project/
 ├── requirements.txt
 ├── README.md
 └── robotframework-project.py
-```
 
+```
 ### **Directory Descriptions**
 
 - **`tests/`**: Contains your test cases, written in `.robot` files. Each file can contain multiple test cases and keywords.
@@ -43,12 +42,17 @@ robot-framework-project/
 - **`requirements.txt`**: Lists the dependencies for your project, such as `robotframework`, `selenium`, etc.
 - **`README.md`**: Documentation file that provides an overview of the project and instructions.
 - **`robotframework-project.py`**: If you have custom Python scripts for managing or extending Robot Framework functionalities.
+---
 
 ## ROADMAP ROBOTFRAMEWORK
 ![robotframework01.gif](documents%2Frobotframework01.gif)
 
+---
+
 ## Architecture Videos and Resources
 ![robotframework00.gif](documents%2Frobotframework00.gif)
+
+---
 
 ## Architecture Videos and Resources
 
