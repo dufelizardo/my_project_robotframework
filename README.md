@@ -1,5 +1,5 @@
 # My Project ROBOTFRAMEWORK
-## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dufelizardo.my_project_robotframework) ![GitHub followers](https://img.shields.io/github/followers/edufelizardo1.my_project_robotframework?style=social) <img src="https://img.shields.io/badge/Completed-0%25-red"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
+## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dufelizardo.my_project_robotframework) ![GitHub followers](https://img.shields.io/github/followers/dufelizardo?style=social) <img src="https://img.shields.io/badge/Completed-0%25-red"/>  <img src="https://img.shields.io/badge/public-Yes-green"/>
 ## Project Structure
 
 Here is a typical project structure for a Robot Framework project:
